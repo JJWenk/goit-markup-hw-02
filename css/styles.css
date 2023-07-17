@@ -135,13 +135,13 @@ text-align: center;
 color: #2E2F42;
 }
 .section-doing {
-    font-family: "Roboto";
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2E2F42;
-    }
+font-family: "Roboto";
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
 .section-item {
 list-style: none;
 }
