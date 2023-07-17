@@ -41,7 +41,6 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 text-decoration: none;
-
 }
 .header-menu.link:hover {
 color: #404BBF;
@@ -67,7 +66,7 @@ color:#404BBF ;
 .header-address.link:focus {
 color: #404BBF;
 }
-.address{
+.address {
 font-style: normal;
 }
 .header-address.list {
@@ -109,8 +108,9 @@ background-color: #404BBF;
 .button-title {
 color: #FFFFFF;
 }
-.advantanges-title {
+.advantages-title {
 font-family: Roboto;
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -118,7 +118,7 @@ text-align: left;
 color: #2E2F42;
 }
 
-.advatanges-text {
+.advantages-text {
 font-family: Roboto;
 font-size: 16px;
 line-height: 1.5;
@@ -127,7 +127,7 @@ text-align: left;
 color: #434455;
 }
 
-.advatanges-list {
+.advantages-list {
 list-style: none;
 }
 .section-text {
@@ -142,7 +142,7 @@ color: #2E2F42;
 .section-item {
 list-style: none;
 }
-.team{
+.team {
 background-color: #F4F4FD;
 }
 .team-title {
@@ -152,14 +152,15 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color:#2E2F42;
+text-transform: capitalize;
 }
 
 .team-subtitle {
 font-family: Roboto;
+font-weight: 500;
 font-size: 20px;
-line-height: 1.5;
+line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: center;
 color: #2E2F42;
 }
 .team-text {
@@ -167,18 +168,25 @@ font-family: Roboto;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
 color:#434455;
 }
-
 .team-list {
+background-color: #FFFFFF;
 list-style: none;
 }
-.footer{
+.footer {
 background-color: #2E2F42;
 }
 .header-logo-footer {
-color:#F4F4FD;
+font-family:"Raleway", sans-serif;
+font-size: 18px;
+line-height: 1.17;
+font-weight: 800;
+letter-spacing: 0.03em;
+text-align: left;
+color: #F4F4FD;
+text-decoration: none;
+text-transform: uppercase;
 }
 .footer-text {
 font-family: Roboto;
