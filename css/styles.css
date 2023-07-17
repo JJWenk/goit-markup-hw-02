@@ -87,7 +87,6 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;
 }
-
 .one-button {
 background-color:#4D5AE5;
 font-family: "Roboto", sans-serif;
@@ -97,7 +96,6 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
-
 }
 .one-button:hover {
 background-color: #404BBF;
@@ -117,7 +115,6 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 }
-
 .advantages-text {
 font-family: Roboto;
 font-size: 16px;
@@ -126,7 +123,6 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #434455;
 }
-
 .advantages-list {
 list-style: none;
 }
@@ -137,7 +133,6 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
-
 }
 .section-item {
 list-style: none;
@@ -154,7 +149,6 @@ text-align: center;
 color:#2E2F42;
 text-transform: capitalize;
 }
-
 .team-subtitle {
 font-family: Roboto;
 font-weight: 500;
