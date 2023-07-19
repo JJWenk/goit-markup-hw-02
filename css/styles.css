@@ -180,7 +180,7 @@ list-style: none;
 .footer {
 background-color: #2E2F42;
 }
-.header-logo-link {
+.header-logo.link {
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 line-height: 1.17;
@@ -191,6 +191,7 @@ color: #4d5ae5;
 text-decoration: none;
 text-transform: uppercase;    
 }
+
 .header-logo-footer {
 font-family: "Raleway", sans-serif;
 font-size: 18px;
