@@ -87,6 +87,9 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;
 }
+.link {
+text-decoration: none;
+}
 .one-button {
 background-color:#4D5AE5;
 font-family: "Roboto", sans-serif;
@@ -223,24 +226,19 @@ color:#FFFFFF; background-color: #404BBF;}
 color:#FFFFFF; background-color: #404BBF; 
 }
 .section-picture-title {   
-font-family: "Roboto";
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
-text-decoration: none;
 }
 .section-picture-text {  
-font-family: "Roboto";
 font-size: 16px;
-font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #434455;
-text-decoration: none;
 }
 .main-section-link {
 text-decoration: none;
